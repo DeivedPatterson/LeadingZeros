@@ -1,0 +1,15 @@
+Info: Read atom netlist
+Info: Generating FPGA Xchange file /home/deived/Documentos/VHDL/leading_zeros/board/fpgaxchange/LeadingZeros.fx
+Info: Atom 25 (y[0]) has key 'output,2.5 V,Default,Series 50 Ohm without Calibration,--,FAST,0,--,0,--,--'
+Info: Atom 27 (y[1]) has key 'output,2.5 V,Default,Series 50 Ohm without Calibration,--,FAST,0,--,0,--,--'
+Info: Atom 29 (y[2]) has key 'output,2.5 V,Default,Series 50 Ohm without Calibration,--,FAST,0,--,0,--,--'
+Info: Atom 31 (y[3]) has key 'output,2.5 V,Default,Series 50 Ohm without Calibration,--,FAST,0,--,0,--,--'
+Info: Atom 33 (x[3]) has key 'input,2.5 V,--,--,Off,--,0,--,0,--,--'
+Info: Atom 35 (x[2]) has key 'input,2.5 V,--,--,Off,--,0,--,0,--,--'
+Info: Atom 37 (x[6]) has key 'input,2.5 V,--,--,Off,--,0,--,0,--,--'
+Info: Atom 39 (x[7]) has key 'input,2.5 V,--,--,Off,--,0,--,0,--,--'
+Info: Atom 41 (x[4]) has key 'input,2.5 V,--,--,Off,--,0,--,0,--,--'
+Info: Atom 43 (x[5]) has key 'input,2.5 V,--,--,Off,--,0,--,0,--,--'
+Info: Atom 45 (x[1]) has key 'input,2.5 V,--,--,Off,--,0,--,0,--,--'
+Info: Atom 47 (x[0]) has key 'input,2.5 V,--,--,Off,--,0,--,0,--,--'
+Info: FPGA Xchange file /home/deived/Documentos/VHDL/leading_zeros/board/fpgaxchange/LeadingZeros.fx generated successfully

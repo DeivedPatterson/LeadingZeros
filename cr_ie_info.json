@@ -1,0 +1,22 @@
+{
+	"system" : {
+		"platform" : "linux64",
+		"os_name" : "Linux Mint",
+		"os_version" : "18"
+	},
+	"error" : {
+		"executable" : "quartus",
+		"comment" : "not_applicable",
+		"error_message" : "Segment Violation at (nil)",
+		"source_file" : "unknown",
+		"line" : "0",
+		"stack_trace" : "\t0x7f145d5f71c0: QtGui.so.4 + 0x4451c0 (_ZN5QFontC1ERKS_ + 0)\n",
+		"subsystem" : "unknown"
+	},
+	"quartus" : {
+		"quartus_bits" : "64",
+		"version" : "18.1.0",
+		"build" : "625",
+		"edition" : "Lite Edition"
+	}
+}
